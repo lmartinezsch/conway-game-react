@@ -1,4 +1,3 @@
-[![Project logo](screenshots/game_of_life_logo.png "Game Of Life WebGL logo")](https://www.samcodes.co.uk/project/game-of-life/)
 
 ## Características
 * Select from thousands of Game of Life patterns, add them to the simulation with one click.
